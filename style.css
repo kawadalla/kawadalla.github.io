@@ -3,6 +3,7 @@ html, body {
   padding: 0 0 0 0;
   margin: 0;
   font-family: 'helvetica', 'arial', 'sans';
+  background: #E9E3FF; //background color
 }
 
 h1,h2,h3,h4 {
@@ -36,7 +37,7 @@ a {
 }
 
 .assignment a {
-    color: #000;
+    color: #000; //text color
     text-decoration: none;
 }
 
@@ -44,6 +45,8 @@ a {
   background: #F06;
   color: #F06;
   text-decoration: none;
+  display: inline-block; //center
+
 }
 
 
