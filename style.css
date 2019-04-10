@@ -8,6 +8,7 @@ html, body {
 
 h1,h2,h3,h4 {
   font-family: 'helvetica', 'arial', 'sans';
+  text-align: center;
   }
 
 
@@ -18,7 +19,7 @@ a {
 .header {
   text-align: center; //align text
   color: #000;
-  height: 500px;
+  height: 625px;
   padding: 30px 30px 30px;
 }
 
