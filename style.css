@@ -4,7 +4,8 @@ html, body {
   margin: 0;
   font-family: 'helvetica', 'arial', 'sans';
   background: ##FCF7CD;
-  //background: #FBF4FF; //background color
+  /*background: #FBF4FF; //background color
+  */
 }
 
 h1,h2,h3,h4 {
