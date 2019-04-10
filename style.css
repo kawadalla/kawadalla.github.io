@@ -39,14 +39,14 @@ a {
 .assignment a {
     color: #000; //text color
     text-decoration: none;
+    display: inline-block; //center
+
 }
 
 .assignment a:hover {
   background: #F06;
   color: #F06;
   text-decoration: none;
-  display: inline-block; //center
-
 }
 
 
