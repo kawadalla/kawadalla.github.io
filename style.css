@@ -17,7 +17,6 @@ a {
 
 .header {
   text-align: center; //align text
-  background: #fff;
   color: #000;
   height: 500px;
   padding: 30px 30px 30px;
@@ -28,6 +27,7 @@ a {
   }
 
 .assignment {
+  text-align: center;
   font-size: 12px;
   line-height: 24px;
   font-family: 'helvetica', 'arial', 'sans';
@@ -35,13 +35,12 @@ a {
   width: 250px;
   height: 350px;
   float: left;
+  display: inline-block; //align
 }
 
 .assignment a {
-    color: #000; //text color
+    color: #000; 
     text-decoration: none;
-    display: inline-block; //center
-
 }
 
 .assignment a:hover {
@@ -66,7 +65,7 @@ a {
 }
 
 .widebody a:hover {
-  background: #F06;
+  background: #F06; //hover color
   color: #FFF;
   text-decoration: none;
 }
