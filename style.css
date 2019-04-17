@@ -71,5 +71,7 @@ a {
   text-decoration: none;
 }
 .content {
-  text-align: left;
+  text-align: justify;
+  padding-left: 15%;
+  padding-right: 15%;
 }
