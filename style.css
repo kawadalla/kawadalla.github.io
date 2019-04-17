@@ -33,7 +33,7 @@ a {
   padding: 20px 20px 20px 30px;
   width: 250px;
   height: 350px;
-    float: left;
+     display: inline-block;
 
 }
 
