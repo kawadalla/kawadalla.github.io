@@ -64,8 +64,8 @@ a {
 
 .bottomSpace a:hover {
   height: 60px;
-  background: #FFC300;
-  color: #FFC300;
+  background: #FFC300; //hover color
+  color: #FFF;
   text-decoration: none;
 }
 }
