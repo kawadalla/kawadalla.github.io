@@ -63,7 +63,7 @@ a {
 }
 
 .bottomSpace a:hover {
-  height: 60px;
+  padding: 14px 25px;  
   background: #FFC300; //hover color
   color: #FFF;
   text-decoration: underline;
