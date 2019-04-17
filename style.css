@@ -63,11 +63,9 @@ a {
 }
 
 .bottomSpace a:hover {
-  padding: 14px 25px;  
-  background: #FFC300; //hover color
-  color: #FFF;
-  text-decoration: underline;
+  height: 75px;
 }
+
 }
 
 .widebody {
