@@ -35,6 +35,7 @@ a {
   width: 250px;
   height: 350px;
   text-align: center;
+  display: inline-block;
 }
 
 .assignment a {
