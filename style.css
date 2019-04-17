@@ -62,7 +62,7 @@ a {
     padding: 300px 0px 30px 30px;
 }
 
-.bottomSpace a:hover {
+.bottomSpace {
   height: 75px;
 }
 
