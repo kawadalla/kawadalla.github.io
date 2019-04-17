@@ -40,6 +40,9 @@ a {
     color: #000; 
     text-decoration: none;
 }
+.assignments{
+  text-align: center;
+}
 
 .assignment a:hover {
   background: #FFC300;
