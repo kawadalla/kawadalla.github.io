@@ -62,8 +62,12 @@ a {
     padding: 300px 0px 30px 30px;
 }
 
-.bottomSpace{
+.bottomSpace a:hover {
   height: 60px;
+  background: #FFC300;
+  color: #FFC300;
+  text-decoration: none;
+}
 }
 
 .widebody {
