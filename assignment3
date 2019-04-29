@@ -1,0 +1,83 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+
+        <title>Assignment 2!</title> 
+
+        <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+
+    </head> 
+    <body> 
+            <div class="header">
+            <h1>CAD Model + Fabricated Output!</h1>
+            <p>
+           <center> <img src="IMG_4017.JPG" width=400></center></a>
+            </p>
+			
+	<div class="content">
+             <b><h2>How I completed this assignment:</h2></b>
+                <p>
+		I first began this assignment by familiarizing myself with the Rhino and Grasshopper software.
+        I was struggling with how to make a star shape, and went to office hours. Josh explained how the software works and gave me some guidence.
+        After some trial and error I was able to make some progress, however I was still struggling to get my shape to look like my original design.
+        I did a Google search to see how others may have created a star. Everything I found was extremely complex but I was able to pull some information from
+        one Grasshopper question <a href="https://discourse.mcneel.com/t/regular-stars/54955">forum</a>. I made some changes to one of the files to meet my needs for this 
+	assignment. I created a rectangle for the space to trim out. I was able to set the point of the rectangle to be center and added in number sliders so one can easily change the dimensions based on cardboard thickness.
+ 	Once I had my shape I was able to use the rdiff function to create the space to trim out. I was able to successfully bake the function!
+	</p>
+		      <center>   <img src="a2_CAD.png" width="600" > </a>  </center> 
+
+		
+		<p>Similar to last week I used the calipers to measure the thickness of my two carboards. Using the number slider I was able to input the thickness and bake the shape. I 
+        repeated this step for ther other cardboard. I converted the file to an ai file I could open in Illustrator. Following the steps of last week I step up
+        my artboard in regard to the cardboard dimensions. From there I created test pieces using the two different cardboard thicknesses.
+       </p>
+	           <center> <img src="IMG_4012.JPG" width=400></center></a>
+
+		<b>Challenges:</b>
+		<p>
+        Unfortunately during my test pieces it came to light that my caliper measurments were off. The cardboard I was using was more compressed on the sides than the 
+        area that was actaully being cut out. After measuring and checking I re-entered the thickness and repeated my original steps.
+        I tried making new test pieces and was successful this time around. I than cut out the remaining pieces, put them together and gave it a shake test.
+        </p>
+		<center> 
+		<img src="IMG_4013.JPG" width="400" height="350"> </a>  
+		<p> Thin cardboard </p>
+
+		<img src="IMG_4014.JPG" width="400" height="300"> </a> 
+		<p> Thick cardboard</p> 
+	 	</center>
+
+	<b>Laser Cutter Settings</b>
+	<ul style="list-style: none;">
+		<li> Speed: 25%  </li>
+		<li> Power: 100% </li>
+		<li> Frequency: 100% </li>
+        <img src="Capture.PNG" width="400" height="200"> </a>  
+
+	</ul>
+	 
+	<b>Files</b>
+	<ul style="list-style: none;">
+		<li> <a href="a2_thick.ai"><b>Illustrator File: Thick</b></a></li>
+		<li> <a href="a2_thin.ai"><b>Illustrator File: Thin</b></a></li>
+		<li> <a href="a2_star.gh"><b>Grasshopper File </b></a></li>		
+		<li> <a href="a2_star.3dm"><b>Rhino File </b></a></li>
+		<li> <a href="stars_2018Feb9a.gh"><b>Star File from forum</b></a></li>
+	</ul>
+
+
+<p> <b>Peer Help:</b> Elizabeth Quepons, helped me with Grasshopper and talking issues out. Josh helped guide me for where to start.</p>
+
+		<br>
+		</br>
+		</div>
+
+		<a href="https://kawadalla.github.io">Return to Home</a>
+ 		<div class="bottomSpace">
+       	   </div>	
+ 	</div>
+    </body>
+</html>
